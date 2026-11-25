@@ -488,12 +488,14 @@ Industry projects package domain rules for professional fields where generic cod
 - [opc-skills](https://github.com/ReScienceLab/opc-skills) | ⭐ 1.9k - Agent Skills for solopreneur workflows and independent business operations.
 - [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) | ⭐ 1.8k - Legal analysis and document-review skill system for Claude Code and AI agents.
 - [kicad-happy](https://github.com/aklofas/kicad-happy) | ⭐ 1.7k - KiCad electronics design skills for schematic analysis, PCB review, EMC checks, SPICE simulation, datasheets, sourcing, and fabrication prep.
+- [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | ⭐ 1.5k - Agent skills for ecommerce product, keyword, review, and sales-estimate research across Amazon and other public marketplaces.
 - [startup-skill](https://github.com/ferdinandobons/startup-skill) | ⭐ 1.3k - Startup validation skill set for market research, competitive intelligence, pricing analysis, and planning.
 - [bioSkills](https://github.com/GPTomics/bioSkills) | ⭐ 1.2k - Bioinformatics SKILLS.md files for agents such as Claude Code.
 - [Filtmall Shopping](https://github.com/filtalgo/Filtmall-Shopping-Skill) | ⭐ 1.2k - Shopping skill for product search, same-product price comparison, checkout, order tracking, and after-sales tasks on Filtmall.
 - [ClawBio](https://github.com/ClawBio/ClawBio) | ⭐ 1.2k - Bioinformatics-native agent skill library for local-first and reproducible research workflows.
 - [show-me-the-money](https://github.com/iamzifei/show-me-the-money) | ⭐ 1.1k - Claude Code skill suite for building and operating an automated business workflow from idea discovery to revenue generation.
 - [resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill) | ⭐ 889 - Career-focused Claude Code skill for tailoring resumes to specific roles and job descriptions.
+- [Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) | ⭐ 900 - Agent skills focused on Amazon product research and marketplace analysis for AI coding agents.
 - [biomate-bioconductor-kb](https://github.com/bioMate-AI/biomate-bioconductor-kb) | ⭐ 791 - BioMate knowledge-base skills for Bioconductor packages, with vignette-grounded workflows and package-specific recipes.
 - [awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) | ⭐ 676 - Agent skills for economics research, data work, econometrics, and academic writing.
 - [awp-skill](https://github.com/awp-core/awp-skill) | ⭐ 232 - Agent skill for querying, staking, governing, and monitoring the AWP protocol on EVM chains.
